@@ -1,0 +1,21 @@
+@media only screen and (max-width: 700px) {
+
+}
+
+@media only screen and (max-width: 1300px) {
+    .movie-info-inner {
+        flex-direction: column;
+    }
+
+    .movie-trailer-player{
+        margin-top: 30px;
+    }
+
+    .info-inner {
+        margin-top: 130px;
+    }
+  }
+
+@media only screen and (max-width: 1920px){
+
+}

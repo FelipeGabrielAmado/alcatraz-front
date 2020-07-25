@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+    .search-box input.text {
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .search-box input.text {
+        width: 350px;
+    }
+  }
+
+@media only screen and (max-width: 1920px){
+
+}

@@ -1,0 +1,31 @@
+@media only screen and (max-width: 600px) {
+
+}
+
+@media only screen and (max-width: 950px) {
+    header#sub-header ul{
+        flex-direction: column!important;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    header#sub-header{
+        height: 100%!important;
+    }
+    li {
+        margin-bottom: 5px!important;
+        margin-top: 5px!important;
+    }
+    .menu-item{
+        display: none;
+    }
+    .more-item svg:not(:root).svg-inline--fa {
+        display: inline!important;
+    }
+    .more-item{
+        display: inline!important;
+    }
+  }
+
+@media only screen and (max-width: 1920px){
+
+}

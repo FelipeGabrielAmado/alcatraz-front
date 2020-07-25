@@ -1,0 +1,13 @@
+@media only screen and (max-width: 1903px){
+    .poster-box {
+        width: 16.9375em;
+        height: 25em;
+    }
+}
+
+@media only screen and (max-width: 1760px){
+    .poster-box {
+    width: 15.6875em;
+    height: 23.75em;
+    }
+}
