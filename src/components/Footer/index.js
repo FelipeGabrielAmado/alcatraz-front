@@ -8,7 +8,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Footer = () => (
     <div className='footer-box'>
-        <a href="http://localhost:3001/">
+        <a href="/">
             <img src='/images/logo.png' alt='Logo Alcatraz' />
         </a>
 

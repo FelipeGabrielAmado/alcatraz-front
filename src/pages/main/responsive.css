@@ -11,3 +11,37 @@
     height: 23.75em;
     }
 }
+
+@media only screen and (max-width: 414px){
+    .poster-box {
+        width: 12.93em;
+        height: 18.75em;
+    }
+}
+
+@media only screen and (max-width: 411px){
+    .poster-box {
+        width: 12.84em;
+        height: 18.75em;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .poster-box {
+        width: 11.6875em;
+        height: 18.75em;
+    }
+}
+
+@media only screen and (max-width: 360px){
+    .poster-box {
+        width: 11.25em;
+    }
+}
+
+
+@media only screen and (max-width: 320px){
+    .poster-box {
+        width: 10em;
+    }
+}

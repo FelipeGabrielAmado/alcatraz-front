@@ -36,7 +36,7 @@ export default class Header extends Component {
 
         return (
             <div className="header">
-                <a href="http://localhost:3001/">
+                <a href="/">
                     <header id="main-header">
                         <img src="/images/logo.png" alt="Logo Alcatraz" />
                     </header>
